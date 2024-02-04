@@ -1,0 +1,16 @@
+.head-main-text-under-box2:hover{
+    background-color: rgb(255, 231, 13);
+    transition: 0.4s ease-in-out;
+    cursor: pointer;
+    
+}
+ 
+.head-main-text-under-box:hover{
+    background-color: rgb(238, 222, 0);
+    transition: 0.4s ease-in-out;
+  
+    cursor: pointer;
+    text-decoration: underline red;
+
+}
+
